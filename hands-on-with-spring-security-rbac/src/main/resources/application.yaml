@@ -1,0 +1,15 @@
+server:
+  port: 8089
+  shutdown: immediate
+  
+admin:
+  token:
+    prefix: 765
+
+app:
+  admin:
+    username: admin
+    password: adminPassword123
+  user:
+    username: user
+    password: userPassword789
